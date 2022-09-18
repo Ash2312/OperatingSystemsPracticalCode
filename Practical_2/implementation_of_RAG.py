@@ -1,3 +1,4 @@
+#IMPLEMENTATION OF BANKERS ALGORITHM IN PYTHON
 a = int(input("the number of processes:  "))
 b = int(input("the number of resources:  "))
 c = int(input("the number of  instances:  ")) 
