@@ -1,3 +1,4 @@
+// Semaphore Producer Consumer using C Programming Language
 #include <stdio.h>
 #include <stdlib.h>
 // Initializing a mutex to 1
