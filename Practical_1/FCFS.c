@@ -1,4 +1,5 @@
-// First Come First Serve Scheduling Algorithm 
+// Write a Program in C Programming Language showing the working 
+// of First Come First Serve Scheduling Policy 
 #include<stdio.h>
 #include<conio.h>
 #define max 30

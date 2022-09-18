@@ -1,3 +1,5 @@
+// Write a Program in C Programming Language showing the working 
+// of Shortest Job First
 #include<stdio.h>
 void main()
 {
