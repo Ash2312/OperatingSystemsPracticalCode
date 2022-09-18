@@ -1,3 +1,4 @@
+# IMPLEMENTATION OF BANKERS ALGORITHM
 P = 5
 # Total Number of Resources 
 R = 3
